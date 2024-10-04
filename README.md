@@ -14,7 +14,7 @@ This is a web application that helps users discover various dishes based on ingr
 
 ## **Tech Stack**
 - **Frontend**: React, Fluent UI, TypeScript
-- **Backend**: Node.js, Express, MongoDB
+- **Backend**: Node.js, Express
 - **Authentication**: JWT (JSON Web Tokens)
 - **API**: REST API for managing dishes and user authentication
 - **State Management**: React Context for managing global state
@@ -26,7 +26,7 @@ This is a web application that helps users discover various dishes based on ingr
 ### **Prerequisites**
 - Node.js (>=14.x)
 - npm (>=6.x) or yarn (>=1.22)
-- MongoDB
+- 
 
 ### **Installation**
 
