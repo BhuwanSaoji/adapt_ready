@@ -1,0 +1,15 @@
+.home-container {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1400px; 
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-input {
+    margin-bottom: 20px; 
+}
+
+.ms-DetailsList {
+    width: 100%;
+}
